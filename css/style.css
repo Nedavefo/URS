@@ -1539,6 +1539,9 @@ img{
 
 /* Ajustes para dispositivos móviles */
 @media only screen and (max-width: 768px) {
+     .main-slider {
+        height: 65vh; /* Ajusta el alto en dispositivos móviles */
+    }
     .main-slider h2 {
         font-size: 50px; /* Ajuste de tamaño de texto en dispositivos móviles */
         padding-bottom: 20px; /* Menos espacio debajo */
